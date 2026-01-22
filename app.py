@@ -2,7 +2,7 @@ import streamlit as st
 st.title("Streamlit Capstone Project")
 
 name = st.text_input("Enter your name:")
-age = st.text_input("Enter your age:")
+age = st.text_input("Enter your age below 35:")
 
 st.write("This is the extra line.")
 
